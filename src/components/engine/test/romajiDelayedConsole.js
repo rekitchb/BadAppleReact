@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-expressions */
 
-import romaji from "../support/lyricsRomaji.json";
+import romaji from "../../support/lyrics/lyricsRomaji.json";
 
 export async function romajiConsole() {
   let delay = 1000;

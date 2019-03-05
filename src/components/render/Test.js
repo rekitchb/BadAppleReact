@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { romajiConsole } from "../engine/romajiDelayedConsole";
+import { romajiConsole } from "../engine/test/romajiDelayedConsole";
 
 export default class Test extends Component {
   render() {
